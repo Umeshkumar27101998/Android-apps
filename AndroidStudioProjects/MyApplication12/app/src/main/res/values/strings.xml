@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_text" />
+    <string name="username_text" />
+    <string name="password_text" />
+    <string name="attempts_text" />
+    <string name="button_login" />
+    <string name="Secon_page_text" />
+
+
+</resources>
