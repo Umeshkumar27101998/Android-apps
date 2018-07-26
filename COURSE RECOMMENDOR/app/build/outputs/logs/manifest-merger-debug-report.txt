@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-core-2.2.2.aar\a42b3d308e7e9972dfd7868b22a81b0a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ae8e89f53300cbd5357ed7e572a3209\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support.test:rules:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\rules-0.5.aar\236d69907ebb0ea6e16b4b6c98d9889f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.test:runner:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runner-0.5.aar\c077ad8038ba46e2dbfc1d3e5bc3f146\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\3cb7fc1748d422c2e4459de9da2eefde\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\df7906768a74ac896f9b64037cd7e621\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\998001af28af420a244add4ea2889562\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\ed22680d364fe8102f9006edabb767ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\exposed-instrumentation-api-publish-0.5.aar\227d887a70c31ee484344627da549ec4\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:7:5-55:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ae8e89f53300cbd5357ed7e572a3209\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ae8e89f53300cbd5357ed7e572a3209\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:22:5-36:19
+MERGED from [com.android.support.test:runner:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runner-0.5.aar\c077ad8038ba46e2dbfc1d3e5bc3f146\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:runner:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runner-0.5.aar\c077ad8038ba46e2dbfc1d3e5bc3f146\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\3cb7fc1748d422c2e4459de9da2eefde\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\3cb7fc1748d422c2e4459de9da2eefde\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\998001af28af420a244add4ea2889562\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\998001af28af420a244add4ea2889562\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\ed22680d364fe8102f9006edabb767ca\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\ed22680d364fe8102f9006edabb767ca\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\exposed-instrumentation-api-publish-0.5.aar\227d887a70c31ee484344627da549ec4\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\exposed-instrumentation-api-publish-0.5.aar\227d887a70c31ee484344627da549ec4\AndroidManifest.xml:24:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.firebaseloginapp.AccountActivity.LoginActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:14:9-67
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:14:19-64
+activity#com.firebaseloginapp.AccountActivity.MainActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:15:9-66
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:15:19-63
+activity#com.firebaseloginapp.AccountActivity.SignupActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:16:9-68
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:16:19-65
+activity#com.firebaseloginapp.AccountActivity.ResetPasswordActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:17:9-75
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:17:19-72
+activity#com.firebaseloginapp.AccountActivity.Splash
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:18:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.firebaseloginapp.AccountActivity.Main2Activity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:25:9-67
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:25:19-64
+activity#com.firebaseloginapp.AccountActivity.EngineeringActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:26:9-73
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:26:19-70
+activity#com.firebaseloginapp.AccountActivity.MedicalActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:27:19-66
+activity#com.firebaseloginapp.AccountActivity.BachelorActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:28:9-70
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:28:19-67
+activity#com.firebaseloginapp.AccountActivity.DiplomaActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.firebaseloginapp.AccountActivity.PharmacyActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:30:19-67
+activity#com.firebaseloginapp.AccountActivity.BusinessActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:31:19-67
+activity#com.firebaseloginapp.AccountActivity.MediaActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:32:19-64
+activity#com.firebaseloginapp.AccountActivity.MasterActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:33:19-65
+activity#com.firebaseloginapp.AccountActivity.DoctorActivity
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:34:19-65
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:35:9-91
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:35:19-88
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ElectronicsandCommunication
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:36:9-99
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:36:19-96
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Electrical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:37:9-82
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:37:19-79
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Mechanical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:38:9-82
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:38:19-79
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.InformationTechnology
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:39:9-93
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:39:19-90
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Civil
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:40:9-77
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:40:19-74
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Chemical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:41:9-80
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:41:19-77
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Aeronautical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:42:9-84
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:42:19-81
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Agricultural
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:43:9-84
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:43:19-81
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Mining
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:44:9-78
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:44:19-75
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.BioChemical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:45:9-83
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:45:19-80
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ElectricalandInstrumentation
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:46:9-100
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:46:19-97
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.Metallurgical
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:47:9-85
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:47:19-82
+activity#com.firebaseloginapp.AccountActivity.BranchCode
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:48:9-64
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:48:19-61
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering1
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:49:9-92
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:49:19-89
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering11
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:50:9-93
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:50:19-90
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering12
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:51:9-93
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:51:19-90
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering13
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:52:9-93
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:52:19-90
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering14
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:53:9-93
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:53:19-90
+activity#com.firebaseloginapp.AccountActivity.EngineeringCourse.ComputerEngineering2
+ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:54:9-101
+	android:name
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml:54:19-89
+uses-sdk
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-core-2.2.2.aar\a42b3d308e7e9972dfd7868b22a81b0a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-core-2.2.2.aar\a42b3d308e7e9972dfd7868b22a81b0a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ae8e89f53300cbd5357ed7e572a3209\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ae8e89f53300cbd5357ed7e572a3209\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:rules:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\rules-0.5.aar\236d69907ebb0ea6e16b4b6c98d9889f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:rules:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\rules-0.5.aar\236d69907ebb0ea6e16b4b6c98d9889f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runner-0.5.aar\c077ad8038ba46e2dbfc1d3e5bc3f146\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runner-0.5.aar\c077ad8038ba46e2dbfc1d3e5bc3f146\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\3cb7fc1748d422c2e4459de9da2eefde\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-2.2.2.aar\3cb7fc1748d422c2e4459de9da2eefde\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\df7906768a74ac896f9b64037cd7e621\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\df7906768a74ac896f9b64037cd7e621\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\998001af28af420a244add4ea2889562\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\998001af28af420a244add4ea2889562\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\ed22680d364fe8102f9006edabb767ca\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\ed22680d364fe8102f9006edabb767ca\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\exposed-instrumentation-api-publish-0.5.aar\227d887a70c31ee484344627da549ec4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\exposed-instrumentation-api-publish-0.5.aar\227d887a70c31ee484344627da549ec4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMESH\Desktop\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6d107366d364530b4bd0aef5cf39515e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e00fa7142aa9886c59e4dab5984601ce\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d09ac2777d9204b22cba1bf388a90da3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0633fbb237d01e73c30c302599538f04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\756e8993b76a485743f66ec8e3713de3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fc7cf0853ea0a469b7804423d507297d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f30f65eb7be3729a41fc1d81058a9df8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eeb3746e7ef0eea367167838d67472df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\70611f39b4c9e5bcc1c4bc896a198360\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a8ec1c8c31bd118f1af1c772e90b075e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c64b485988a0db08d8d6688179f71f3\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9bc2330092a5cf57bc9172e5cc3478ec\AndroidManifest.xml:27:13-51
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\f9e16760ccd72331118394722acf694a\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\4b97c52f3e1b5767f68a306bba281875\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\a6648ecfa56d8e0ecc1c99babdd17252\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\935f55f97681322bf44dcdd1a9ba5593\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\UMESH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5a7eb8ba3d3ef2c9179ba0e3545f38de\AndroidManifest.xml:26:13-58

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">444993387769-irb10fmhpgrkr436s609ube369vr357d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://course-recommendor-firebase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">444993387769</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6Mq3zgyvfqxaP-S3HPCULmNzW4j_jww0</string>
+    <string name="google_app_id" translatable="false">1:444993387769:android:deaae79cdf056ac3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6Mq3zgyvfqxaP-S3HPCULmNzW4j_jww0</string>
+    <string name="google_storage_bucket" translatable="false">course-recommendor-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">course-recommendor-firebase</string>
+</resources>

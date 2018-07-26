@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.firebaseloginapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AccountActivity.LoginActivity" />
+        <activity android:name=".AccountActivity.MainActivity" />
+        <activity android:name=".AccountActivity.SignupActivity" />
+        <activity android:name=".AccountActivity.ResetPasswordActivity" />
+        <activity android:name=".AccountActivity.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AccountActivity.Main2Activity" />
+        <activity android:name=".AccountActivity.EngineeringActivity" />
+        <activity android:name=".AccountActivity.MedicalActivity" />
+        <activity android:name=".AccountActivity.BachelorActivity" />
+        <activity android:name=".AccountActivity.DiplomaActivity" />
+        <activity android:name=".AccountActivity.PharmacyActivity" />
+        <activity android:name=".AccountActivity.BusinessActivity" />
+        <activity android:name=".AccountActivity.MediaActivity" />
+        <activity android:name=".AccountActivity.MasterActivity" />
+        <activity android:name=".AccountActivity.DoctorActivity" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ElectronicsandCommunication" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Electrical" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Mechanical" />
+        <activity android:name=".AccountActivity.EngineeringCourse.InformationTechnology" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Civil" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Chemical" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Aeronautical" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Agricultural" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Mining" />
+        <activity android:name=".AccountActivity.EngineeringCourse.BioChemical" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ElectricalandInstrumentation" />
+        <activity android:name=".AccountActivity.EngineeringCourse.Metallurgical" />
+        <activity android:name=".AccountActivity.BranchCode" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering1" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering11" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering12" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering13" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering14" />
+        <activity android:name=".AccountActivity.EngineeringCourse.ComputerEngineering2"></activity>
+    </application>
+
+</manifest>

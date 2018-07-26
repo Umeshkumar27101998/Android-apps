@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".AccountActivity.BranchCode">
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="4dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/DarkRed"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147"
+        tools:text="
+         Code    Engineering Branch
+
+            1   Computer Engineering
+            2   Electronics and Communication Engineering
+            3   Electrical Engineering
+            4   Mechanical Engineering
+            5   Information Technology Engineering
+            6   Civil Engineering
+            7   Chemical Engineering
+            8   Aeronautical Engineering
+            9    Agricultural Engineering
+            10   Mining Engineering
+            11  Biochemical Engineering
+            12  Electrical and Instrumentation Engineering
+            13  Metallurgical Engineering" />
+</android.support.constraint.ConstraintLayout>
